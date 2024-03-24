@@ -156,7 +156,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # julak    
-    julak="https://sc6 .scvps.biz.id/"
+    julak="https://sc6.scvps.biz.id/"
 
 ####
 start=$(date +%s)
